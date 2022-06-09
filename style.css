@@ -1,0 +1,109 @@
+table{
+    margin: auto;
+    width: 500px;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+
+#table2{
+    width: 500px;
+}
+
+#imagem1{
+    width: 100%;
+}
+
+.textoVerde, .textoBranco{
+    text-align: justify;
+    padding-left: 100px;
+}
+
+.textoVerde{
+    color: #00A857;
+}
+
+.textoBranco{
+    color: white;
+}
+
+.imagens56{
+    width: 56px;
+    height: 56px;
+    padding-left: 100px;
+
+}
+
+#salario{
+    font-size: 55px;
+    font-weight: bolder;
+    padding-bottom: 45px
+}
+
+#fulano{
+    font-size: 35px;
+    font-weight: bolder;
+    padding-bottom: 25px;
+}
+
+#contaCorrente{
+    font-size: 35px;
+    padding-bottom: 45px;
+}
+
+.textos{
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+
+#tb2{
+    width: 500px;
+}
+
+#outra{
+    width: 100%;
+
+}
+#imagemFooter{
+    padding: 45px;
+    width: 540px;
+    height: 200px;
+}
+
+#outra2{
+    width: 5000px;
+}
+
+#redesSociais{
+    font-size: 25px;
+}
+
+.imagens25{
+    width: 25px;
+    height: 25px;
+
+}
+
+div{
+    background-color: #F6F6F6;
+    border-radius: 10px; 
+
+}
+
+#texto2{
+    padding: 25px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#textosFinais{
+    padding-top: 15px;
+    color: #B2B2B2;
+    
+}
+
+
+
+
